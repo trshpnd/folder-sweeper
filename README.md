@@ -9,4 +9,4 @@ python -m pip install -r requirements.txt
 python sweeper.py
 ```
 
-3. Selecione o arquivo de log desejado e aguarde a finalização do processo.
+3. Selecione a pasta desejada e aguarde a finalização do processo.
